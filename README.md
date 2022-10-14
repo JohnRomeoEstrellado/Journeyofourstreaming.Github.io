@@ -1,1 +1,14 @@
-# Journeyofourstreaming.Github.io[New Text Document (4).txt](https://github.com/JohnRomeoEstrellado/Journeyofourstreaming.Github.io/files/9785631/New.Text.Document.4.txt)
+# Journeyofourstreaming.Github.io[New Text Document (4).txt]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <h1><center>Hello</center></h1>
+    
+</body>
+</html>
