@@ -1,4 +1,3 @@
-# Journeyofourstreaming.Github.io[New Text Document (4).txt]
 <!DOCTYPE html>
 <html lang="en">
 <head>
